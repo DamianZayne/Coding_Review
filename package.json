@@ -1,0 +1,13 @@
+{
+  "name": "ai-code-reviewer",
+  "version": "1.0.0",
+  "description": "智能代码审查系统 - 多Agent协作",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": ["ai", "code-review", "agent"],
+  "author": "",
+  "license": "MIT"
+}
